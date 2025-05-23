@@ -10,7 +10,8 @@ Welcome to my GitHub! I'm passionate about all things cybersecurity, from protec
 - 📚 Exploring tools, techniques, and best practices in cyber defense
 
 <h2> Cyber security Projects </h2>
-- Security scripts and tools
+
+- Vulnerabilities Assesment | <a href="https://github.com/steventvu/Vulnerabilities-">Vulnerabilties Lab</a>
 - Learning projects and labs
 - Notes and resources from my cyber journey
 
